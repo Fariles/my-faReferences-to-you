@@ -2,7 +2,7 @@
 
 Olá! Sejam bem vindos! Sou Welder Rocha Fariles, atualmente analista de BI.
 
-Criei esse repositório com o intuito de guardar as referências que tive ao longo da minha carreira, desde pequenos projetos até livros que estudei. Espero com esse repositório poder ajudar quem esta começando ou até mesmo quem já está na area faz um tempo.
+Criei esse repositório com o intuito de guardar as referências que tive ao longo da minha carreira, desde pequenos projetos até livros que estudei. Espero com esse repositório poder ajudar quem esta começando ou até mesmo quem já está na área faz um tempo.
 
 # Projetos
 > Projetos livres que desenvolvi
